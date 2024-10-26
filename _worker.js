@@ -133,7 +133,6 @@ export default {
 			isUuid,
 			pathname.includes('/_'),
 			pathname.includes('/r'),
-			pathname.includes('/v2/'),
 			pathname.includes('/v2/user'),
 			pathname.includes('/v2/orgs'),
 			pathname.includes('/v2/_catalog'),
